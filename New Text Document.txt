@@ -1,0 +1,293 @@
+﻿how to open inspect tool:
+select settings-more tools-developer tools.(ctrl+shift+i).
+<div></div>
+here < - tag.
+     div is tag name.
+     <></> entire thing is element.
+button animation:
+button{
+  
+    background: blue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border:1px solid #111;
+    color:white;
+ }
+button:hover{
+    background:red;
+    transform: scale(1);
+    transition: ease-in-out s all;
+    padding: 30px;
+}
+
+bootstrap button document :
+<button class="btn btn-success">SUCCESS</button>
+    <button class="btn btn-danger">DANGER</button>
+    <button class="btn btn-primary">PRIMARY</button>
+    <button class="btn btn-warning">WARNING</button>
+    <button class="btn btn-info">INFO</button>
+    <button class="btn btn-light">LIGHT</button>
+    <button class="btn btn-dark">DARK</button>
+    <button class="btn btn-link">LINK</button>
+
+note: we should not touch libraries and frame work, Incase we want to modify then we must do it in custom css.
+ If we are mentioning !important then browser will execute that.
+
+
+ button{
+     padding:30px;
+     margin: 10px;
+     background: yellow !important
+ }
+ .btn-danger{
+     background: black;
+
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+Using Gmail with screen readers
+
+Conversations
+3.41 GB (22%) of 15 GB used
+Manage
+Terms � Privacy � Program Policies
+Last account activity: 0 minutes ago
+Currently being used in 9 other locations � Details
+
+how to open inspect tool:
+select settings-more tools-developer tools.(ctrl+shift+i).
+<div></div>
+here < - tag.
+     div is tag name.
+     <></> entire thing is element.
+button animation:
+button{
+  
+    background: blue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    border:1px solid #111;
+    color:white;
+ }
+button:hover{
+    background:red;
+    transform: scale(1);
+    transition: ease-in-out s all;
+    padding: 30px;
+}
+
+bootstrap button document :
+<button class="btn btn-success">SUCCESS</button>
+    <button class="btn btn-danger">DANGER</button>
+    <button class="btn btn-primary">PRIMARY</button>
+    <button class="btn btn-warning">WARNING</button>
+    <button class="btn btn-info">INFO</button>
+    <button class="btn btn-light">LIGHT</button>
+    <button class="btn btn-dark">DARK</button>
+    <button class="btn btn-link">LINK</button>
+
+note: we should not touch libraries and frame work, Incase we want to modify then we must do it in custom css.
+ If we are mentioning !important then browser will execute that.
+
+
+ button{
+     padding:30px;
+     margin: 10px;
+     background: yellow !important
+ }
+
+
+CLIENT-SERVER-DATABASE_SERVER-CLIENT.
+
+HTTP has 
+1.GET().-> we use GET() method for getting data from server.It is not secure.It is limited only 30000 text, i.e we can send and recieve 30000 characters.
+2.POST().-> We donot have any data so we use POST()method for creating new data. It is secure and we can send and recieve huge characters of data.
+3.PUT().-> we use PUT() method for modifying data.
+4.DELETE().-> we use DELETE() method for deleting data
+
+NOTE: HTML does not support PUT() method and DELETE() method. It support GET() and POST() method.
+
+<form action="#"> here # means redirecting to same page.
+
+<input type="text" name="username" id="username"/>
+Here the use of name attribute
+ .btn-danger{
+     background: black;
+
+
+ }
+
+ 
+New Text Document.txt
+Displaying New Text Document.txt. 
+
+
+
+24.9.2019
+
+the :nth-child() css pseudo-class matches
+elements based on their position in a group of siblings
+
+/* selects every fourth element among any group of siblings*/
+:nth-child(4n){
+color:lime;
+}
+the nth-child pseudo-class is specfied with a single argument,which represents the pattern for matching elements.
+
+keyword value section
+odd
+represnts elements ina position in a series of siblings is odd:1,3,5 etc
+even represents elements whosenumeric position in a series of siblings is even 2,6
+
+
+#col-sm-6>sm
+col-md-4>
+col-lg-4>destop
+col-xs->mobile
+
+
+
+Grid system:>
+Use our powerful mobile-first flexbox grid to build layouts of all shapes and 
+sizes thanks to a twelve column system, five default responsive tiers, Sass variables and mixins,
+ and dozens of predefined classes.
+
+
+
+
+
+GRID system.
+col,extral large,medium.grid system is for layout purpose
+
+
+sum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+Why do we use it?
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+
+mb- margin buttom
+ml- margin left
+mr-margin left
+
+> for a section we use margin 0 auto
+
+
+
+>to move the div to center offset class is used by bootstrap
+
+
+input tag is inline element
+
+offset is a bootstrap element used to
+
+
+
+for coloms to use card <div.col-md-4.offset-4.card>div.card-body>form>div*3 sort for for creating building blocks
+
+the card-class inside the div container will be declared  after the div container in which the offset and card value will be 
+and class name=card-body.
+
+float-right is used to keep the buton in right side,
+
+
+11/.
+FORM GROUP AND FORM-CONTROL
+
+
+html4 is for markup purpose
+html5 is both for markup and logic. and embedded with js
+
+
+novalidate element is disabling the validation of a page
+
+
+1.WHY WE USE TARGET _BLANK AFTER ANCHOR TAG AND HREF ATTRIBUTE?
+
+
+
+IT WILL OPEN THE LINK IN AN OTHER TAB AND THAT WILL NOTE AFFECT THE WEBSITE WE DESIGN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Containers
+Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Choose from a responsive, fixed-width container (meaning its max-width changes at each breakpoint) or fluid-width (meaning it’s 100% wide all the time).
+
+While containers can be nested, most layouts do not require a nested container. it is a predefined class.
+
+
+
+
+.navbar-brand for your company, product, or project name.
+.navbar-nav for a full-height and lightweight navigation (including support for dropdowns).
+.navbar-toggler for use with our collapse plugin and other navigation toggling behaviors.
+.form-inline for any form controls and actions.
+.navbar-text for adding vertically centered strings of text.
+.collapse.navbar-collapse for grouping and hiding navbar contents by a parent breakpoint.
+
+
+
+jquery is javascript library.
+bootstrap depends upon jquery
+
+IMAGE SPRITES:
+An image sprite is a collection of images put into a single image.
+A web page with many images can take a long time to load and generates multiple server requests.
+Using image sprites will reduce the number of server requests and save bandwidth.
+css striped method reduces hhtp request.
+
+z-index is a property used to remove overlaping.its more important.
+specify the stack order of the element.only works on postional elements.
+positions are 
+static 
+fixed
+inherit
+absolute
+relative
